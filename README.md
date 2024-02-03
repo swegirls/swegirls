@@ -5,4 +5,3 @@
 * Previously, graduated with a Bachelor's of Business Administration with a major in Finance and Accounting.
 
 * Interested in **software engineering, product management, AI/ML, mobile development, and data science**!
-
