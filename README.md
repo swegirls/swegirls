@@ -5,7 +5,7 @@
 * Previously, graduated with a Bachelor's of Business Administration with a major in Finance and Accounting.
 * Interested in software engineering, product management, AI/ML, mobile development, and data science!
 
-##  Tech Stack  
+##  📚 Tech Stack  
 ### 📝 Languages
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
